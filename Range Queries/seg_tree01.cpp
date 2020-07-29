@@ -1,6 +1,5 @@
 /*
 Program  : Answering range sum queries using segment trees.
-Author   : Prabhat Chand Sharma
 Complexity : O(n) for precomputing and O(logn) for each query.
 */
 #include<bits/stdc++.h>
